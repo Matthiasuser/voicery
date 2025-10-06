@@ -52,7 +52,7 @@
   "navigation": [{
       "group": "Introduction",
       "pages": [
-        "introduction/what-is-Voicery",
+        "introduction/what-is-voicery",
         "introduction/how-it-works",
         "introduction/key-terminology"
       ]
