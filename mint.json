@@ -31,7 +31,7 @@
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.Voicery.ai"
+    "url": "https://app.voicery.ai"
   },
   "anchors": [{
     "name": "No-Code Automation",
@@ -314,10 +314,10 @@
     }
   ],
   "footerSocials": {
-    "linkedin": "https://www.linkedin.com/company/Voicery-ai"
+    "linkedin": "https://www.linkedin.com/company/voicery"
   },
   "api": {
-    "baseUrl": "https://app.Voicery.ai/api/",
+    "baseUrl": "https://app.voicery.ai/api/",
     "auth": {
       "method": "bearer"
     }
