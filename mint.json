@@ -16,7 +16,7 @@
     }
   },
   "topAnchor": {
-    "name": "Platform Guide",
+    "name": "Voicery Platform Guide",
     "icon": "book"
   },
   "sidebar": {
@@ -24,10 +24,10 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://Voicery.ai"
+    "url": "https://voicery.ai"
   }, {
     "name": "Support",
-    "url": "https://Voicery.ai/contact"
+    "url": "https://voicery.ai/contact"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
@@ -38,12 +38,7 @@
     "icon": "wand-magic-sparkles",
     "color": "#6c63ff",
     "url": "automation-platform"
-  }, {
-    "name": "White Label",
-    "icon": "tag",
-    "color": "#ff0142",
-    "url": "white-label"
-  }, {
+  },{
     "name": "API Reference",
     "icon": "code",
     "color": "#1c51fc",
@@ -184,23 +179,6 @@
       ]
     },
     {
-      "group": "White Label Program",
-      "pages": [
-        "white-label/overview",
-        "white-label/onboarding",
-        "white-label/plans-setup",
-        "white-label/user-limits",
-        {
-          "group": "Social Logins",
-          "icon": "share-nodes",
-          "pages": [
-            "white-label/social-logins/google",
-            "white-label/social-logins/linkedin"
-          ]
-        }
-      ]
-    },
-    {
       "group": "Troubleshooting & FAQs",
       "pages": [
         "troubleshooting/ai-behavior",
@@ -314,7 +292,7 @@
     }
   ],
   "footerSocials": {
-    "linkedin": "https://www.linkedin.com/company/voicery"
+    "linkedin": "https://www.linkedin.com/company/voicery-ai"
   },
   "api": {
     "baseUrl": "https://app.voicery.ai/api/",
